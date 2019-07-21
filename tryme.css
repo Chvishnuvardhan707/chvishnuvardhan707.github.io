@@ -1,0 +1,71 @@
+		.circle{width: 80px;height: 80px;border: 2px solid #000;
+			position: absolute;
+		 border-radius: 80px;
+    }
+		 .mel{
+      height: 500px;
+      width: 750px;
+    }
+		 .parallax {
+  background-image: url("images/computer2.jpg");
+  min-height: 60%; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body,html{
+	height: 100%
+  background-color: transparent;
+}
+.parallax1 {
+  background-image:  url("images/computer1.jpg");
+  min-height: 50%; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax2 {
+  background-image: url("images/ds1.jpg");
+  min-height: 60%; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navbar{
+	margin: 0 auto;
+	width: 100%;
+
+}
+.h33{
+  text-align: center;
+  font-size: 2.5rem;
+  box-shadow: 2px;
+}
+.xx{
+  float: left;
+}
+.aboutme{
+  margin-top: 10%;
+  font-style: italic;
+  font-size: 1.0rem;
+  text-align: center;
+}
+.skillsme{
+   margin-top: 10%;
+ 
+}
+.myfoot{
+  border: 2px solid white;
+}
+.container1{
+  width: 120%;
+  padding: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  position:relative;
+  top: 5%;
+  height: 15%;
+}
